@@ -1,4 +1,4 @@
-# Hubot
+# Hubot：一种家用机器人
 
 Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
 cool. He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
