@@ -1,7 +1,7 @@
 # Hubot：一种家用机器人
 
-Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
-cool. He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
+Hubot 是一个聊天机器人, hubot 仿照GitHub's Campfire bot(篝火机器人)制作而成. 它非常的酷. 
+He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
 
 This repository provides a library that's distributed by `npm` that you
@@ -13,6 +13,6 @@ are building your own bot. But if you do, check out [CONTRIBUTING.md](CONTRIBUTI
 
 If you'd like to chat, drop by [#hubot](http://webchat.freenode.net/?channels=#hubot) on FreeNode IRC.
 
-## License
+## 授权协议
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
